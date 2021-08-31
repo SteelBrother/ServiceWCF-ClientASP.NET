@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudiSoftWCF", "AudiSoftWCF\AudiSoftWCF.csproj", "{4B8FE3E9-00FA-4BAC-B3AB-0B637A82E18B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B8FE3E9-00FA-4BAC-B3AB-0B637A82E18B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8FE3E9-00FA-4BAC-B3AB-0B637A82E18B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8FE3E9-00FA-4BAC-B3AB-0B637A82E18B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8FE3E9-00FA-4BAC-B3AB-0B637A82E18B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDAC092A-1CD4-47C1-98C9-3075F0C6EDAD}
+	EndGlobalSection
+EndGlobal

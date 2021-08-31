@@ -1,0 +1,12 @@
+C:\Users\LARTE GAMER\source\repos\AudiSoftWCF\AudiSoftWCF\bin\AudiSoftWCF.dll.config
+C:\Users\LARTE GAMER\source\repos\AudiSoftWCF\AudiSoftWCF\bin\AudiSoftWCF.dll
+C:\Users\LARTE GAMER\source\repos\AudiSoftWCF\AudiSoftWCF\bin\AudiSoftWCF.pdb
+C:\Users\LARTE GAMER\source\repos\AudiSoftWCF\AudiSoftWCF\bin\EntityFramework.dll
+C:\Users\LARTE GAMER\source\repos\AudiSoftWCF\AudiSoftWCF\bin\EntityFramework.SqlServer.dll
+C:\Users\LARTE GAMER\source\repos\AudiSoftWCF\AudiSoftWCF\bin\EntityFramework.xml
+C:\Users\LARTE GAMER\source\repos\AudiSoftWCF\AudiSoftWCF\bin\EntityFramework.SqlServer.xml
+C:\Users\LARTE GAMER\source\repos\AudiSoftWCF\AudiSoftWCF\obj\Debug\AudiSoftWCF.csprojAssemblyReference.cache
+C:\Users\LARTE GAMER\source\repos\AudiSoftWCF\AudiSoftWCF\obj\Debug\AudiSoftWCF.csproj.CoreCompileInputs.cache
+C:\Users\LARTE GAMER\source\repos\AudiSoftWCF\AudiSoftWCF\obj\Debug\AudiSoftWCF.csproj.CopyComplete
+C:\Users\LARTE GAMER\source\repos\AudiSoftWCF\AudiSoftWCF\obj\Debug\AudiSoftWCF.dll
+C:\Users\LARTE GAMER\source\repos\AudiSoftWCF\AudiSoftWCF\obj\Debug\AudiSoftWCF.pdb
